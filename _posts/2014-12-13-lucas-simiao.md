@@ -5,12 +5,12 @@ description: ...
 ---
 
 ## Lucas Simião também foi aprovado para Medicina na UFRJ e Uerj
-
+<!---
 {% capture images %}
   /images/posts/1960445.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
-
+-->
 O estudante Lucas Simião, ex-aluno do Colégio Estadual Santos Dias, em São Gonçalo, é motivo de orgulho para a família e comunidade escolar. Ele foi aprovado nos cursos de Medicina na UFRJ e Uerj e Biomedicina na UFRJ. O estudante, que optou por Biomedicina, obteve 940 em sua redação no Enem e se destacou nos processos seletivos.
 
 A trajetória de Lucas sempre foi precoce. Segundo sua mãe, Aline Ventura, ele já falava da área científica desde a infância.
